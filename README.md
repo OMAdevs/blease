@@ -1,2 +1,3 @@
-# blease
-naijaHacks19
+NaijaHacks Hackathon 2019
+
+Team Blease
