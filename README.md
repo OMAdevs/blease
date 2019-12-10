@@ -13,7 +13,7 @@
 
 
 # Problem
-The voting systems used in most developing countries, including Nigeria are inefficient and very expensive. Most times, they don't indicate the true representative of the citizens. Citizen's safety is very paramount in any country and can only be enforced by a true leader  and representative of the citizens in a democratic political system like Nigeria.  
+Safety and trust and cost in the voting system has been a major concern around the world. Sadly, the huge costs involved in this process does not translate to electoral integrity. Citizen's safety is very paramount in any country and can only be enforced by a true leader  and representative of the citizens in a democratic political system like Nigeria.  
 
 # Proposed Solution
 
